@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "acid-carbonate reactions", "acid-carbonate reactions\acid-carbonate reactions.vcxproj", "{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Debug|x64.ActiveCfg = Debug|x64
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Debug|x64.Build.0 = Debug|x64
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Debug|x86.Build.0 = Debug|Win32
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Release|x64.ActiveCfg = Release|x64
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Release|x64.Build.0 = Release|x64
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Release|x86.ActiveCfg = Release|Win32
+		{9EE5D6C4-943D-4FB0-BF20-F2394B349A87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3684B662-B7A4-4EDC-A920-9823D0E584B5}
+	EndGlobalSection
+EndGlobal
